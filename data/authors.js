@@ -1,10 +1,10 @@
 var authorData = {
 
-	//Latif's profile
+	//Will's profile
 	brent : {
-		name        : "Chris Rayment",
+		name        : "Will Bradbeer",
 		profile_img : "chris.png", //
-		bio         : "Business Professional. Gamer."
+		bio         : "Engineer. Athlete."
 		// twitter;
 	}
 };

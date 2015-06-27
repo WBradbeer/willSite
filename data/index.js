@@ -3,9 +3,9 @@ var blogData = require('./blog');
 module.exports = [
 	//Landing Page Data
 	{
-		title       : "Chris Rayment | Business Professional",
-		description : "Chris Rayment. Business Professional",
-		author      : "Chris Rayment",
+		title       : "Will Bradbeer | Engineer",
+		description : "Will Bradbeer. Engineer",
+		author      : "Will Bradbeer",
 		content     : "home"
 	},
 
@@ -13,7 +13,7 @@ module.exports = [
 	{
 		title       : "Blog",
 		description : "All the updates ever",
-		author      : "Chris Rayment",
+		author      : "Will Bradbeer",
 		content     : "blog",
 		blogData    : blogData
 	}
